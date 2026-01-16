@@ -1,2 +1,7 @@
 REGISTRO DE MONITOREO QUETZAL-2
 ============================================================
+ORIGEN:  X (Twitter)
+TITULAR: Guatemala regresa al espacio. La <b>UVG</b> anunció el lanzamiento del <b>QUETZAL-2</b>, un <b>satélite</b> ...
+LINK:    https://x.com/republicagt/status/2011944009040642467/photo/1
+FECHA:   2026-01-16T01:58:00Z
+------------------------------------------------------------
