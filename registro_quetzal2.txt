@@ -10,3 +10,8 @@ TITULAR: Guatemala volverá al espacio con el <b>satélite QUETZAL-2</b>
 LINK:    https://republica.com/actualidad/guatemala-volvera-al-espacio-con-el-satelite-quetzal-2-202611511490
 FECHA:   2026-01-16T07:29:18Z
 ------------------------------------------------------------
+ORIGEN:  Google Noticias
+TITULAR: Guatemala volverá al espacio con el <b>satélite QUETZAL-2</b> - DPL News
+LINK:    https://dplnews.com/guatemala-volvera-al-espacio-con-el-satelite-quetzal-2/
+FECHA:   2026-01-17T05:38:23Z
+------------------------------------------------------------
