@@ -3,8 +3,10 @@ import os
 import time
 import urllib.parse
 
-MIS_ALERTAS = {
-    "Google Noticias": "https://www.google.com/alerts/feeds/01887550311641805276/7716548066590087574",
+# SOURCE CONFIGURATION
+# Dictionary containing social media names and their respective Google Alerts RSS feed URLs
+MY_ALERTS = {
+    "Google News": "https://www.google.com/alerts/feeds/01887550311641805276/7716548066590087574",
     "Facebook": "https://www.google.com/alerts/feeds/01887550311641805276/135799460851061576",
     "Instagram": "https://www.google.com/alerts/feeds/01887550311641805276/3450936725565665775",
     "X (Twitter)": "https://www.google.com/alerts/feeds/01887550311641805276/6701889539388378885",
@@ -12,65 +14,62 @@ MIS_ALERTAS = {
     "LinkedIn": "https://www.google.com/alerts/feeds/01887550311641805276/5498586337459388710"
 }
 
-ARCHIVO_NOTAS = "registro_quetzal2.txt"
+LOG_FILE = "registro_quetzal2.txt"
 
-def limpiar_link_google(url_bruta):
+# URL cleaning function
+
+def clean_google_link(raw_url):
+    """
+    Extracts the direct destination URL from a Google Alerts wrapper.
+    """
     try:
-        parsed_url = urllib.parse.urlparse(url_bruta)
+        parsed_url = urllib.parse.urlparse(raw_url)
         query_params = urllib.parse.parse_qs(parsed_url.query)
+        
         if 'url' in query_params:
             return query_params['url'][0]
-    except:
+    except Exception:
         pass
-    return url_bruta
-
-def actualizar():
-    ahora = time.strftime('%Y-%m-%d %H:%M:%S')
-    print(f"=== INICIANDO ESCANEO: {ahora} ===")
     
-    if not os.path.exists(ARCHIVO_NOTAS):
-        with open(ARCHIVO_NOTAS, "w", encoding="utf-8") as f:
-            f.write(f"REGISTRO DE MONITOREO QUETZAL-2\n{'='*60}\n")
-        print(f"Archivo {ARCHIVO_NOTAS} creado.")
+    return raw_url
 
-    with open(ARCHIVO_NOTAS, "r", encoding="utf-8") as f:
-        historial = f.read()
+# MAIN PROCESSING FUNCTION
+def update():
+    """
+    Fetches RSS feeds and appends new entries to the log file.
+    """
+    # Create log file with header if it doesn't exist
+    if not os.path.exists(LOG_FILE):
+        with open(LOG_FILE, "w", encoding="utf-8") as f:
+            f.write(f"QUETZAL-2 MONITORING LOG\n{'='*60}\n")
 
-    nuevos_totales = 0
-    
-    for nombre_fuente, rss_url in MIS_ALERTAS.items():
-        print(f"Revisando {nombre_fuente}...", end=" ")
+    # Load existing history to prevent duplicates
+    with open(LOG_FILE, "r", encoding="utf-8") as f:
+        history = f.read()
+
+    # Iterate through each alert source
+    for source_name, rss_url in MY_ALERTS.items():
         feed = feedparser.parse(rss_url)
-        nuevos_en_fuente = 0
         
         if not feed.entries:
-            print("Vacío (sin publicaciones recientes).")
             continue
 
-        with open(ARCHIVO_NOTAS, "a", encoding="utf-8") as f:
-            for entrada in feed.entries:
-                link_real = limpiar_link_google(entrada.link)
+        # Append new entries to the log file
+        with open(LOG_FILE, "a", encoding="utf-8") as f:
+            for entry in feed.entries:
+                clean_link = clean_google_link(entry.link)
                 
-                if link_real not in historial:
-                    bloque = (
-                        f"ORIGEN:  {nombre_fuente}\n"
-                        f"TITULAR: {entrada.title}\n"
-                        f"LINK:    {link_real}\n"
-                        f"FECHA:   {entrada.published}\n"
+                # Save entry only if the link is not in history
+                if clean_link not in history:
+                    block = (
+                        f"SOURCE:  {source_name}\n"
+                        f"TITLE:   {entry.title}\n"
+                        f"LINK:    {clean_link}\n"
+                        f"DATE:    {entry.published}\n"
                         f"{'-' * 60}\n"
                     )
-                    f.write(bloque)
-                    nuevos_en_fuente += 1
-                    nuevos_totales += 1
-                    historial += link_real
-        
-        if nuevos_en_fuente > 0:
-            print(f"¡Encontrado! ({nuevos_en_fuente} nuevos)")
-        else:
-            print("Sin novedades nuevas.")
-
-    print(f"\nRESUMEN: Se agregaron {nuevos_totales} entradas nuevas al archivo.")
-    print("="*40)
+                    f.write(block)
+                    history += clean_link
 
 if __name__ == "__main__":
-    actualizar()
+    update()
