@@ -15,3 +15,8 @@ TITULAR: Guatemala volverá al espacio con el <b>satélite QUETZAL-2</b> - DPL N
 LINK:    https://dplnews.com/guatemala-volvera-al-espacio-con-el-satelite-quetzal-2/
 FECHA:   2026-01-17T05:38:23Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   <b>Quetzal-2</b>, el <b>satélite</b> desarrollado en Guatemala que llegará al <b>espacio</b>
+LINK:    https://www.guatemala.com/noticias/tecnologia/quetzal-2-segundo-satelite-guatemalteco-sera-lanzado-espacio.html
+DATE:    2026-01-30T08:02:32Z
+------------------------------------------------------------
