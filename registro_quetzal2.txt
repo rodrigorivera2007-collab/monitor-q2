@@ -20,3 +20,8 @@ TITLE:   <b>Quetzal-2</b>, el <b>satélite</b> desarrollado en Guatemala que lle
 LINK:    https://www.guatemala.com/noticias/tecnologia/quetzal-2-segundo-satelite-guatemalteco-sera-lanzado-espacio.html
 DATE:    2026-01-30T08:02:32Z
 ------------------------------------------------------------
+SOURCE:  X (Twitter)
+TITLE:   Guatemala ya se encuentra desarrollando el <b>Quetzal-2</b>, el 2do. <b>satélite</b> que será lanzado al ...
+LINK:    https://x.com/guatemala_com/status/2016948791094477206
+DATE:    2026-01-29T20:30:20Z
+------------------------------------------------------------
