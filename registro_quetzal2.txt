@@ -60,3 +60,93 @@ TITLE:   The <b>QUETZAL-2 satellite</b>, developed at the University of Valle, i
 LINK:    https://www.youtube.com/watch?v=RO2Pku1Vhm8
 DATE:    2026-02-04T09:19:29Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Incendio en predio de la PMT deja pérdidas millonarias y reclamos por falta de información
+LINK:    https://crnnoticias.com/incendio-en-predio-de-la-pmt-deja-perdidas-millonarias-y-reclamos-por-falta-de-informacion/
+DATE:    2026-02-04T09:20:24Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   CC traslada amparos al Organismo Judicial y deja en incertidumbre elección en el CANG
+LINK:    https://crnnoticias.com/cc-traslada-amparos-al-organismo-judicial-y-deja-en-incertidumbre-eleccion-en-el-cang/
+DATE:    2026-02-04T09:10:36Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Zamora pide a Cámara de Amparos libertad provisional mientras resuelve uno de sus casos
+LINK:    https://crnnoticias.com/zamora-pide-a-camara-de-amparos-libertad-provisional-mientras-resuelve-uno-de-sus-casos/
+DATE:    2026-02-04T08:43:39Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   CANG presenta recursos contra fallo que limita voto de ciencias afines - CRN Noticias
+LINK:    https://crnnoticias.com/cang-presenta-recursos-contra-fallo-que-limita-voto-de-ciencias-afines/
+DATE:    2026-02-04T08:43:38Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Incendio consume instalaciones del Predio Municipal de Quetzaltenango - CRN Noticias
+LINK:    https://crnnoticias.com/incendio-consume-instalaciones-del-predio-municipal-de-quetzaltenango/
+DATE:    2026-02-04T08:43:38Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Programa DEMos entregó 258375 desayunos escolares y fortaleció la nutrición infantil en 2025
+LINK:    https://crnnoticias.com/programa-demos-entrego-258375-desayunos-escolares-y-fortalecio-la-nutricion-infantil-en-2025/
+DATE:    2026-02-04T08:43:37Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Incendio daña emergencia del Hospital Nacional de Mazatenango - CRN Noticias
+LINK:    https://crnnoticias.com/incendio-dana-emergencia-del-hospital-nacional-de-mazatenango/
+DATE:    2026-02-04T08:43:35Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Reos de Pavón tenían 40 celulares y dos armas de fuego en su poder - CRN Noticias
+LINK:    https://crnnoticias.com/reos-de-pavon-tenian-40-celulares-y-dos-armas-de-fuego-en-su-poder/
+DATE:    2026-02-04T08:43:34Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Expulsan de por vida a jugador por golpear a árbitra en Quiché - CRN Noticias
+LINK:    https://crnnoticias.com/expulsan-de-por-vida-a-jugador-por-golpear-a-arbitra-en-quiche/
+DATE:    2026-02-04T08:43:31Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Congreso juramenta comisión que definirá la elección del próximo Fiscal General | Noticias
+LINK:    https://crnnoticias.com/congreso-juramenta-comision-que-definira-la-eleccion-del-proximo-fiscal-general/
+DATE:    2026-02-04T08:43:30Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Acuerdo arancelario - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/03/acuerdo-arancelario/
+DATE:    2026-02-04T08:18:33Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Derrumbe el kilómetro 61 - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/03/derrumbe-en-el-kilometro-61/
+DATE:    2026-02-04T08:08:23Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Ley general del sistema portuario recibe dictamen favorable - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/03/ley-general-del-sistema-portuario-recibe-dictamen-favorable/
+DATE:    2026-02-04T08:00:50Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Incendio en pediatría del Hospital de Mazate - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/03/incendio-en-pediatria-del-hospital-de-mazatenango/
+DATE:    2026-02-04T07:58:27Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Recaudación SAT 2025 - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/03/recaudacion-sat-2025/
+DATE:    2026-02-04T07:52:39Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   CANG a pocas horas de elección - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/03/cang-a-pocas-horas-de-eleccion/
+DATE:    2026-02-04T07:47:44Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Análisis | Evaluación ciudadana del Gobierno - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/03/analisis-evaluacion-ciudadana-del-gobierno/
+DATE:    2026-02-04T07:29:51Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Congreso juramenta a postuladora para elección de fiscal general - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/03/congreso-juramenta-a-postuladora-para-eleccion-de-fiscal-general/
+DATE:    2026-02-04T07:26:56Z
+------------------------------------------------------------
