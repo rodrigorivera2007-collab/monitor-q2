@@ -151,21 +151,6 @@ LINK:    https://canalantigua.tv/2026/02/04/satelite-guatemalteco-se-lanzara-en-
 DATE:    2026-02-04T23:09:18Z
 ------------------------------------------------------------
 SOURCE:  Google News
-TITLE:   Reforma educativa en Guatemala - Canal Antigua
-LINK:    https://canalantigua.tv/2026/02/04/reforma-educativa-en-guatemala/
-DATE:    2026-02-04T20:50:25Z
-------------------------------------------------------------
-SOURCE:  Google News
-TITLE:   Imprudencia de motos con tráiler encunetado - Canal Antigua
-LINK:    https://canalantigua.tv/2026/02/04/imprudencia-de-motos-con-trailer-encunetado/
-DATE:    2026-02-04T19:48:16Z
-------------------------------------------------------------
-SOURCE:  Google News
-TITLE:   Incendios estructurales y vehiculares - Canal Antigua
-LINK:    https://canalantigua.tv/2026/02/04/incendios-estructurales-y-vehiculares/
-DATE:    2026-02-04T19:37:41Z
-------------------------------------------------------------
-SOURCE:  Google News
 TITLE:   El <b>satélite</b> guatemalteco <b>Quetzal-2</b>: innovación estudiantil, inteligencia artificial y el salto ...
 LINK:    https://www.infobae.com/guatemala/2026/02/04/el-satelite-guatemalteco-quetzal-2-innovacion-estudiantil-inteligencia-artificial-y-el-salto-internacional-a-bordo-de-spacex/
 DATE:    2026-02-04T15:30:50Z
