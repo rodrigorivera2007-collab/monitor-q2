@@ -170,3 +170,8 @@ TITLE:   El <b>satélite</b> guatemalteco <b>Quetzal-2</b>: innovación estudian
 LINK:    https://www.infobae.com/guatemala/2026/02/04/el-satelite-guatemalteco-quetzal-2-innovacion-estudiantil-inteligencia-artificial-y-el-salto-internacional-a-bordo-de-spacex/
 DATE:    2026-02-04T15:30:50Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   <b>Quetzal-2</b> avanza hacia su lanzamiento al <b>espacio</b> en 2028 con el apoyo de Exolaunch
+LINK:    https://noticias.uvg.edu.gt/quetzal-2-avanza-hacia-su-lanzamiento-al-espacio-en-2028-con-el-apoyo-de-exolaunch/
+DATE:    2026-02-05T22:36:42Z
+------------------------------------------------------------
