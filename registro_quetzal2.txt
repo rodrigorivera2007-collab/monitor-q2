@@ -160,3 +160,18 @@ TITLE:   <b>Quetzal-2</b> avanza hacia su lanzamiento al <b>espacio</b> en 2028 
 LINK:    https://noticias.uvg.edu.gt/quetzal-2-avanza-hacia-su-lanzamiento-al-espacio-en-2028-con-el-apoyo-de-exolaunch/
 DATE:    2026-02-05T22:36:42Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Reforma educativa en Guatemala - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/04/reforma-educativa-en-guatemala/
+DATE:    2026-02-04T20:50:25Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Imprudencia de motos con tráiler encunetado - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/04/imprudencia-de-motos-con-trailer-encunetado/
+DATE:    2026-02-04T19:48:16Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Incendios estructurales y vehiculares - Canal Antigua
+LINK:    https://canalantigua.tv/2026/02/04/incendios-estructurales-y-vehiculares/
+DATE:    2026-02-04T19:37:41Z
+------------------------------------------------------------
