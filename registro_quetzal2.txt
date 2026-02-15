@@ -175,3 +175,8 @@ TITLE:   ¡Guatemala regresa al <b>ESPACIO</b>! ¡Qué orgullo! La <b>Universida
 LINK:    https://www.instagram.com/p/DUgNIloEc1g/
 DATE:    2026-02-08T16:13:48Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   <b>Universidad</b> de Guatemala prepara su segundo <b>satélite</b>, elegido entre los mejores del mundo
+LINK:    https://ensegundos.com.pa/2026/02/15/universidad-de-guatemala-prepara-su-segundo-satelite-elegido-entre-los-mejores-del-mundo/
+DATE:    2026-02-15T12:57:38Z
+------------------------------------------------------------
