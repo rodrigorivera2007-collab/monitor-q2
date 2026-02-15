@@ -11,13 +11,13 @@ MY_ALERTS = {
     "Instagram": "https://www.google.com/alerts/feeds/01887550311641805276/3450936725565665775",
     "X (Twitter)": "https://www.google.com/alerts/feeds/01887550311641805276/6701889539388378885",
     "YouTube": "https://www.google.com/alerts/feeds/01887550311641805276/9628050986709898055",
-    "LinkedIn": "https://www.google.com/alerts/feeds/01887550311641805276/5498586337459388710"
+    "LinkedIn": "https://www.google.com/alerts/feeds/01887550311641805276/5498586337459388710",
+    "TikTok": "https://www.google.com/alerts/feeds/01887550311641805276/651756219194696206"  # NUEVO FEED
 }
 
 LOG_FILE = "registro_quetzal2.txt"
 
 # URL cleaning function
-
 def clean_google_link(raw_url):
     """
     Extracts the direct destination URL from a Google Alerts wrapper.
@@ -61,11 +61,13 @@ def update():
                 
                 # Save entry only if the link is not in history
                 if clean_link not in history:
+                    published_date = entry.get("published", "No date available")
+
                     block = (
                         f"SOURCE:  {source_name}\n"
                         f"TITLE:   {entry.title}\n"
                         f"LINK:    {clean_link}\n"
-                        f"DATE:    {entry.published}\n"
+                        f"DATE:    {published_date}\n"
                         f"{'-' * 60}\n"
                     )
                     f.write(block)
