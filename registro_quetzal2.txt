@@ -200,3 +200,8 @@ TITLE:   &quot;<b>Quetzal-2</b>&quot;, el <b>satélite</b> guatemalteco que surc
 LINK:    https://www.soy502.com/articulo/ingenieros-satelite-guatemalteco-quetzal-2-revelan-detalles-153
 DATE:    2026-03-07T02:50:35Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Centro de operaciones satelitales | Diario de Centro América
+LINK:    https://dca.gob.gt/noticias-guatemala-diario-centro-america/centro-de-operaciones-satelitales/
+DATE:    2026-03-12T11:42:01Z
+------------------------------------------------------------
