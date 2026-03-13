@@ -210,3 +210,13 @@ TITLE:   La <b>Universidad del Valle</b> de Guatemala (<b>UVG</b>) inauguró el 
 LINK:    https://www.instagram.com/p/DVwQ5X-lApP/
 DATE:    2026-03-12T18:58:22Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   <b>UVG</b> inaugura el centro de operaciones del segundo <b>satélite</b> guatemalteco, <b>QUETZAL-2</b>
+LINK:    https://newsinamerica.com/pdcc/noticias/gerenciales/2026/uvg-inaugura-el-centro-de-operaciones-del-segundo-satelite-guatemalteco-quetzal-2/
+DATE:    2026-03-13T01:06:28Z
+------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   <b>UVG</b> impulsa la carrera <b>espacial</b> en GT con el Centro de Operaciones para el <b>QUETZAL-2</b>
+LINK:    https://perspectiva.gt/tecnologia/uvg-centro-operaciones-satelital-quetzal-2-guatemala/
+DATE:    2026-03-12T20:44:35Z
+------------------------------------------------------------
