@@ -220,3 +220,8 @@ TITLE:   <b>UVG</b> impulsa la carrera <b>espacial</b> en GT con el Centro de Op
 LINK:    https://perspectiva.gt/tecnologia/uvg-centro-operaciones-satelital-quetzal-2-guatemala/
 DATE:    2026-03-12T20:44:35Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Inauguran el centro de operaciones del segundo <b>satélite</b> guatemalteco - Prensa Libre
+LINK:    https://www.prensalibre.com/economia/vida-empresarial/inauguran-el-centro-de-operaciones-del-segundo-satelite-guatemalteco/
+DATE:    2026-03-14T17:52:31Z
+------------------------------------------------------------
