@@ -225,3 +225,8 @@ TITLE:   Inauguran el centro de operaciones del segundo <b>satélite</b> guatema
 LINK:    https://www.prensalibre.com/economia/vida-empresarial/inauguran-el-centro-de-operaciones-del-segundo-satelite-guatemalteco/
 DATE:    2026-03-14T17:52:31Z
 ------------------------------------------------------------
+SOURCE:  X (Twitter)
+TITLE:   La <b>UVG</b> inauguró el Centro de Operaciones de <b>QUETZAL-2</b>, segundo <b>satélite</b> guatemalteco.
+LINK:    https://x.com/247PrensaD/status/2032773736475099352
+DATE:    2026-03-14T17:35:45Z
+------------------------------------------------------------
