@@ -320,3 +320,8 @@ TITLE:   <b>UVG</b> hosts InnovaCon 2026 - YouTube
 LINK:    https://www.youtube.com/watch?v=4dOTTYQdn1I
 DATE:    2026-08-04T09:15:54Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   28 de abril de 2020: Quetzal-1, el primer <b>satélite</b> guatemalteco lanzado al <b>espacio</b>
+LINK:    https://www.prensalibre.com/guatemala/28-de-abril-de-2020-quetzal-1-el-primer-satelite-guatemalteco-lanzado-al-espacio/
+DATE:    2026-08-22T13:28:02Z
+------------------------------------------------------------
