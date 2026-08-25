@@ -325,3 +325,8 @@ TITLE:   28 de abril de 2020: Quetzal-1, el primer <b>satélite</b> guatemalteco
 LINK:    https://www.prensalibre.com/guatemala/28-de-abril-de-2020-quetzal-1-el-primer-satelite-guatemalteco-lanzado-al-espacio/
 DATE:    2026-08-22T13:28:02Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   El Laboratorio Aeroespacial de <b>UVG</b> lanza convocatoria para el Curso de Vacaciones ...
+LINK:    https://newsinamerica.com/pdcc/noticias/gerenciales/2026/el-laboratorio-aeroespacial-de-uvg-lanza-convocatoria-para-el-curso-de-vacaciones-academia-aeroespacial-uvg/
+DATE:    2026-08-25T04:51:33Z
+------------------------------------------------------------
