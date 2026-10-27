@@ -355,3 +355,8 @@ TITLE:   Soy 502 on X: &quot;✔️ Selecciona el emblema del <b>QUETZAL-2</b> r
 LINK:    https://x.com/soy_502/status/2114546163726836058
 DATE:    2026-10-26T04:54:17Z
 ------------------------------------------------------------
+SOURCE:  Google News
+TITLE:   Asiste a <b>UVG</b> InnovaCon | Agosto 2026 - Guatemala.com
+LINK:    https://www.guatemala.com/eventos/talleres-conferencias/innovacon-uvg-2026
+DATE:    2026-10-27T12:37:53Z
+------------------------------------------------------------
